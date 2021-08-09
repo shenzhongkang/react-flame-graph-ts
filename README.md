@@ -2,6 +2,8 @@
 
 A React component for visualizing profiling data.
 
+![demo](https://github.com/shenzhongkang/react-flame-graph-ts/blob/main/demo.jpg?raw=true)
+
 ## Installation
 
 ```js
